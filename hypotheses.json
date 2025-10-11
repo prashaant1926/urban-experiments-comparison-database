@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "A standardized repository of urban experiments with normalized metrics will reveal patterns in intervention effectiveness across different city contexts and enable more accurate prediction of policy outcomes."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]

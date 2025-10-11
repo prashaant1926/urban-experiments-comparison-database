@@ -1,0 +1,5 @@
+This research project aims to develop a comprehensive database architecture and methodology for systematically documenting urban experiments, interventions, and simulation outcomes across cities worldwide. The repository will standardize how urban policy experiments are recorded, including detailed parameters, contextual variables, implementation methods, and measured outcomes.
+
+The system will enable rigorous cross-city comparison by normalizing key metrics and controlling for demographic, economic, and geographic variables. This will allow researchers and policymakers to identify which urban interventions are truly reproducible across different contexts versus those that are highly dependent on local conditions.
+
+The ultimate goal is to create an evidence base for urban policy decisions by aggregating real-world experimental results and simulation outcomes in a structured, searchable format. This will help cities learn from each other's experiences and better predict the likely outcomes of proposed interventions in their specific context.
