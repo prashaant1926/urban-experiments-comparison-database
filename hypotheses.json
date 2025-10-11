@@ -1,11 +1,94 @@
 [
   {
-    "id": "1",
-    "hypothesis": "A standardized repository of urban experiments with normalized metrics will reveal patterns in intervention effectiveness across different city contexts and enable more accurate prediction of policy outcomes."
+    "id": "H1-primary",
+    "type": "primary",
+    "hypothesis": "Urban policy intervention outcomes follow predictable patterns based on measurable contextual variables (demographic, economic, spatial, governance characteristics), enabling systematic identification of transferable policy principles across cities.",
+    "null_hypothesis": "Urban policy outcomes are context-specific and random, showing no systematic patterns across cities",
+    "assumptions": [
+      "Urban contexts, while unique in detail, share measurable structural similarities",
+      "Policy effectiveness is governed by discoverable causal mechanisms rather than random chance",
+      "Standardized measurement frameworks can capture both quantitative outcomes and contextual nuance",
+      "Cross-city comparison is methodologically valid when appropriate similarity metrics are applied"
+    ],
+    "theoretical_foundation": [
+      "Policy Transfer Theory (Dolowitz & Marsh)",
+      "Institutional Theory (North)",
+      "Urban Systems Theory (Batty)",
+      "Evidence-Based Policy (Davies, Nutley & Smith)"
+    ],
+    "falsification_criteria": [
+      "No statistical patterns emerge from comparative analysis of >50 urban experiments",
+      "Contextual variables show no significant correlation with intervention outcomes",
+      "Policy effectiveness appears completely random across similar urban contexts",
+      "Expert validation consistently rejects identified patterns as spurious"
+    ],
+    "testable_predictions": {
+      "short_term": "Analysis of 15-20 urban experiments will reveal at least 3 statistically significant correlations between contextual variables and outcomes",
+      "medium_term": "Framework will predict intervention outcomes with >70% accuracy in held-out test cases",
+      "long_term": "Framework adoption will be evidenced by >20 academic citations and >10 practical implementations"
+    }
   },
   {
-    "id": "example-1",
-    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
-    "_isExample": true
+    "id": "H2-methodological",
+    "type": "secondary", 
+    "hypothesis": "Standardized documentation frameworks can preserve contextual richness while enabling meaningful cross-city comparison of urban policy experiments.",
+    "null_hypothesis": "Standardization necessarily reduces contextual richness below the threshold for meaningful analysis",
+    "assumptions": [
+      "Urban experiments can be meaningfully decomposed into comparable components",
+      "Qualitative implementation insights can be systematically captured alongside quantitative metrics",
+      "Local context can be quantified without losing essential explanatory power"
+    ],
+    "falsification_criteria": [
+      "Standardized frameworks lose critical contextual information that affects interpretation",
+      "Expert practitioners reject framework as missing essential implementation factors",
+      "Cross-city comparisons using framework produce misleading conclusions"
+    ],
+    "testable_predictions": {
+      "short_term": "Standardized framework will capture >80% of variation in expert assessments of intervention quality",
+      "medium_term": "At least 5 urban planning researchers will adopt framework for their own comparative studies",
+      "long_term": "Urban policy journals will begin requiring standardized documentation for experimental studies"
+    }
+  },
+  {
+    "id": "H3-transferability",
+    "type": "secondary",
+    "hypothesis": "Policy transferability can be quantitatively predicted based on similarity metrics across demographic, economic, spatial, and governance dimensions.",
+    "null_hypothesis": "Policy transferability is qualitative and cannot be systematically predicted",
+    "assumptions": [
+      "Meaningful similarity between cities can be quantitatively measured",
+      "Policy transfer success/failure follows patterns related to contextual similarity",
+      "Threshold levels of similarity exist below which transfer becomes inadvisable"
+    ],
+    "falsification_criteria": [
+      "Similarity metrics show no correlation with transfer success rates",
+      "Highly similar cities show randomly distributed transfer outcomes",
+      "Expert assessment of transferability shows no alignment with quantitative predictions"
+    ],
+    "testable_predictions": {
+      "short_term": "Quantitative city similarity measures will correlate (r > 0.6) with expert judgments of policy transferability",
+      "medium_term": "3+ cities will use framework to inform real policy transfer decisions",
+      "long_term": "Successful policy transfers documented using framework principles"
+    }
+  },
+  {
+    "id": "H4-causal-mechanisms",
+    "type": "secondary",
+    "hypothesis": "Universal causal mechanisms governing urban policy effectiveness exist and can be identified through systematic comparative analysis, while accounting for local implementation variations.",
+    "null_hypothesis": "All urban policy effectiveness is fundamentally context-dependent with no universal mechanisms",
+    "assumptions": [
+      "Cities share fundamental characteristics that influence policy outcomes",
+      "Causal mechanisms operate at a level of abstraction that transcends local details",
+      "Implementation variations can be systematically categorized and controlled for"
+    ],
+    "falsification_criteria": [
+      "No consistent causal patterns emerge across diverse urban contexts",
+      "Identified mechanisms fail to predict outcomes in new cases",
+      "Local variations completely overwhelm any universal mechanisms"
+    ],
+    "testable_predictions": {
+      "short_term": "Analysis will identify at least 2 universal causal mechanisms across intervention types",
+      "medium_term": "Causal mechanisms will demonstrate explanatory power across >75% of documented cases",
+      "long_term": "Database will contain >100 experiments enabling robust meta-analysis of urban policy effectiveness"
+    }
   }
 ]
